@@ -1,0 +1,19 @@
+body {
+   width: 780px; 
+   font-family: Arial,sans-serif;
+   background-color: rgb(103, 103, 182);
+}
+.container {
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+}
+.par {
+    font-style: italic;
+    font-size: 10px;
+}
+u {
+    color: purple;
+}

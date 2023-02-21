@@ -1,0 +1,57 @@
+table.dark {
+    color: white;
+    border: 1px solid;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #2d2d2d;
+}
+table.dark .a { 
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    color:grey;
+    padding: 5px;
+    padding-top: 0px;
+    padding-bottom: 20px;  
+}
+table.dark .a1 {
+    border-bottom: 1px solid black;
+    color:grey;
+    padding: 5px;
+}
+table.dark .b {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    color:grey;
+    padding: 5px;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+table.dark .b1 {
+    border-bottom: 1px solid black; 
+    color:grey;
+    padding: 5px;
+}
+table.dark .c {
+    border-right: 1px solid black;
+    color:grey;
+    padding: 5px;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+table.dark .c1 {
+    color:grey;
+    padding: 5px;
+}
+table.dark .txtfilm {
+    text-align: left;
+    padding: 5px;
+}
+h4 {
+    color: white;
+    margin-bottom: 0;
+}
+table.dark .xblack {
+    background-color: rgb(22, 20, 20);
+}
+table.dark .txtyr {
+    padding: 5px;
+}
